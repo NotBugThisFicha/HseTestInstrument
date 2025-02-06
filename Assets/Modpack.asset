@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15fdc05d6c9689499746f76bbec92a6, type: 3}
+  m_Name: Modpack
+  m_EditorClassIdentifier: 
+  guid: 
+  buildPath: C:/UnityProjects/PC-Metavers/client_desktop/Build
+  streamingAssetsPath: C:/UnityProjects/PC-Metavers/client_desktop/Build/HSE_PC_MetaVers_Data/StreamingAssets/
+  scenes:
+  - {fileID: 102900000, guid: 6460a050404ba8c4f9ea8eca33f76168, type: 3}
+  - {fileID: 102900000, guid: 132b32cddd28a8243b38dd5d2039e714, type: 3}
+  setBuildPath: 0
+  buildSubSceneData: 0
+  publishStreamingAssets: 0
